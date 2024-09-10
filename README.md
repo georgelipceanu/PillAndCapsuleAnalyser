@@ -6,6 +6,9 @@ Assignment Spec shown in spec.pdf.
 This is a JavaFX application that analyses images of pills and capsules, allowing the user to identify and label such these pills. The application provides options for uploading images, filtering the pills in the image by clicking on them in the image itself and adjusting size and HSB values to match a desired output.
 The core of the image conversion utilizes the Union-Find algorithm (union by size) where each pixel on the image is it's own disjoint set. These are then unioned together based on their surrounding pixels.
 
+![Dashboard](./PillAndCapsuleImages/readme-pic1.png)
+![Dashboard](./PillAndCapsuleImages/readme-pic2.png)
+
 ## Features
 - **Pill Filtering**: Filter pills by clicking on the desired pill in the image (based on size (in pixels) and min and max HSB values).
 - **Pill Labelling**: Confirm the name of a specific type of pill.

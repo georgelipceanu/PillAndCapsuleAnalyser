@@ -1,6 +1,5 @@
 # Pill &amp; Capsule Analyser
 Pill &amp; Capsule Analyser for CA1 of Data Structures &amp; Algorithms 2 (Year 2, Semester 2, 93%)
-Assignment Spec shown in spec.pdf.
 
 ## Overview
 This is a JavaFX application that analyses images of pills and capsules, allowing the user to identify and label such these pills. The application provides options for uploading images, filtering the pills in the image by clicking on them in the image itself and adjusting size and HSB values to match a desired output.
